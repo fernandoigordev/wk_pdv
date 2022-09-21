@@ -1,0 +1,8 @@
+*.local
+*.res
+*.skincfg
+*.~*
+*.dcu
+*.exe
+*.identcache
+_history/
