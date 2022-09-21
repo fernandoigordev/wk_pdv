@@ -9,7 +9,7 @@
 - Exclusão de pedidos
 ### Metodologia Utilizada
   - POO
-  - Conceitos de Clean Code e Clean Archteture
+  - Conceitos de Clean code e Clean architecture
   - Padrão de projeto Observer
   - Banco de dados Utilizado foi o SqLite, Apesar de ser solicitado o MySql, este banco tem uma complexidade menor para execução do teste, visto que não é necessario instação e todos os insert, update, delete e select estão na aplicação.
 ### Como rodar a aplicação :pager:
